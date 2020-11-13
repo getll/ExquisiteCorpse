@@ -1,0 +1,1 @@
+This is my story 2, another file used to learn to use git.
